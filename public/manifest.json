@@ -1,0 +1,20 @@
+{
+  "id": "/",
+  "name": "DRAW - Waste Collection",
+  "short_name": "DRAW",
+  "description": "Resource-Limited Mobile Application for Optimized Waste Collection in Households (Barangay 41, Cavite City)",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#059669",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}

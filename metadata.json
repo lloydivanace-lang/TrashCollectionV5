@@ -1,0 +1,6 @@
+{
+  "name": "DRAW",
+  "description": "trash collection - Barangay 41 Waste Collection & Kagawad Proof Management System with Raspberry Pi 4 Cloud Storage",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
